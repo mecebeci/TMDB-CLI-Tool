@@ -1,7 +1,7 @@
 from functions import *
 
 def main():
-    search("Inception")
+    upcoming_movies()
 
 
 if __name__ == "__main__":
